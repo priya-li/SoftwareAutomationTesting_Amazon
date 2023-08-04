@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Amazon.com</name>
+   <tag></tag>
+   <elementGuidId>2bdccb69-3b31-4168-a94d-78fbfeca1b6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Press Center'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2d93dd56-38c5-44a8-8271-aea1b5dd3cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amazon.com</value>
+      <webElementGuid>4bb76f24-63b2-48c5-beb1-7ff1b42ad07f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;Homepage&quot;]/body[@class=&quot;Homepage-body&quot;]/footer[@class=&quot;Page-footer&quot;]/div[@class=&quot;Page-footer-body&quot;]/div[@class=&quot;Page-footer-body-main&quot;]/div[@class=&quot;Page-footer-columns&quot;]/div[@class=&quot;Page-footer-column&quot;]/div[@class=&quot;Page-footer-navigation&quot;]/nav[@class=&quot;FooterNavigation&quot;]/ul[@class=&quot;FooterNavigation-items&quot;]/li[@class=&quot;FooterNavigation-items-item&quot;]/div[@class=&quot;FooterNavigationItem&quot;]/div[@class=&quot;FooterNavigationItem-text&quot;]/a[@class=&quot;Link&quot;]/span[1]</value>
+      <webElementGuid>378292bf-e70b-4d6f-918e-cd5faa714b41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Press Center'])[1]/following::span[1]</value>
+      <webElementGuid>1f5d6c87-fe49-4d48-bc87-ad4182a7d0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon News'])[7]/following::span[2]</value>
+      <webElementGuid>e6ca1ce3-9cfb-4088-aa5e-dba9d45a260e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investor Resources'])[1]/preceding::span[1]</value>
+      <webElementGuid>58b25cda-e611-4b97-95a8-0738c0fd95b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[1]/preceding::span[2]</value>
+      <webElementGuid>68384aa4-e2d4-4a00-99a2-bb23cb4281ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/a/span</value>
+      <webElementGuid>8e6bea64-a7a4-4f3c-93a2-928235dea979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Amazon.com' or . = 'Amazon.com')]</value>
+      <webElementGuid>d59ff4bc-7e30-4ec7-9b7a-287c832f12b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

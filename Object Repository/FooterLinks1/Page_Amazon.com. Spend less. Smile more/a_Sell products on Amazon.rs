@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sell products on Amazon</name>
+   <tag></tag>
+   <elementGuidId>f2371ac6-66c4-4767-8a5a-9b55256cbaf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navFooter']/div/div/div[3]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>39d79f2b-2296-46af-8dac-76f7d604811c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://services.amazon.com/sell.html?ld=AZFSSOA&amp;ref_=footer_soa</value>
+      <webElementGuid>5ff3e336-ff70-4c68-87b9-c9cf57d47bbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav_a</value>
+      <webElementGuid>dfa7b0b3-6787-40d8-bee9-b1d9de638467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sell products on Amazon</value>
+      <webElementGuid>7e518a8e-4ff7-4435-8805-bdc0dd131680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navFooter&quot;)/div[@class=&quot;navFooterVerticalColumn navAccessibility&quot;]/div[@class=&quot;navFooterVerticalRow navAccessibility&quot;]/div[@class=&quot;navFooterLinkCol navAccessibility&quot;]/ul[1]/li[@class=&quot;nav_first&quot;]/a[@class=&quot;nav_a&quot;]</value>
+      <webElementGuid>e688ff4c-3f30-45ea-94cb-c2fc81928046</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navFooter']/div/div/div[3]/ul/li/a</value>
+      <webElementGuid>1b8de440-7a3e-4fc0-8fcd-8939c0022694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sell products on Amazon')]</value>
+      <webElementGuid>76e5e907-49cc-435e-9562-5e3a3e52607e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Money with Us'])[1]/following::a[1]</value>
+      <webElementGuid>a61463d6-d0d8-4159-aa1c-7474c98a7a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Science'])[1]/following::a[1]</value>
+      <webElementGuid>296c30d3-7011-4cda-a2c3-7da9952d8d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sell on Amazon Business'])[1]/preceding::a[1]</value>
+      <webElementGuid>99e8aa6c-4892-4040-8716-2d5fdc7efb57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sell apps on Amazon'])[1]/preceding::a[2]</value>
+      <webElementGuid>2e743b8b-dc97-4e5c-9ee0-6e1ccf90c596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sell products on Amazon']/parent::*</value>
+      <webElementGuid>ea705284-3623-4cc1-952b-2aa2dad3d6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://services.amazon.com/sell.html?ld=AZFSSOA&amp;ref_=footer_soa')]</value>
+      <webElementGuid>13a336a8-b07a-4097-9ff2-2b1b86f43d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/a</value>
+      <webElementGuid>dc332817-60bf-4906-bf26-fa1a60a2d718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://services.amazon.com/sell.html?ld=AZFSSOA&amp;ref_=footer_soa' and (text() = 'Sell products on Amazon' or . = 'Sell products on Amazon')]</value>
+      <webElementGuid>c0600c23-90da-4f0b-ad7c-806b68a83509</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

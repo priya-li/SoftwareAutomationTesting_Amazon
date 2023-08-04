@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint_001</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>D:\SoftwareTesting_Internship\CHECKPOINTS.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2023-08-03T23:05:08.417</taken-date>
+   <column-names>
+      <column-name>Email/Ph.No</column-name>
+      <column-name>Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "1234567890",
+      "checked": true
+    },
+    {
+      "value": "pAssword4",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "abc@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "amazon123",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "xyz@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "qwertyy",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "7894056123",
+      "checked": true
+    },
+    {
+      "value": "huidvui632",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
