@@ -29,18 +29,20 @@ WebUI.setText(findTestObject('Object Repository/AmazonSearchItem1/Page_Amazon.co
 
 WebUI.click(findTestObject('Object Repository/AmazonSearchItem1/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button'))
 
-unchecked = WebUI.verifyElementNotChecked(findTestObject('null'), 
+unchecked = WebUI.verifyElementNotChecked(findTestObject('Object Repository/buttons_handling/Page_Amazon.com  da vinci code/i_Action-packed_a-icon a-icon-checkbox'), 
     0)
 
 if (unchecked == true) {
     System.out.println('element not checkeck')
 
-    WebUI.check(findTestObject('null'))
+    WebUI.click(findTestObject('Object Repository/buttons_handling/Page_Amazon.com  da vinci code/i_Action-packed_a-icon a-icon-checkbox'))
 
     System.out.println('element checkeck')
 }
 
 WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/buttons_handling/Page_Amazon.com  da vinci code/i_Action-packed_a-icon a-icon-checkbox'))
 
 WebUI.closeBrowser()
 
